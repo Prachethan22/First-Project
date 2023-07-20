@@ -1,0 +1,1 @@
+This stack of collective webpages is accessed through the usage of xampp, thereby it is advised to use run Xampp(tomcat and mysql) before opening the files as to gain a local host server for operation
